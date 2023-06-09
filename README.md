@@ -29,7 +29,10 @@
 
 ## Как установить и запустить
 
-Чтобы запустить это приложение, вам потребуeтся установленный на вашем компьютере Git.
+Чтобы запустить это приложение, вам потребуeтся установленный на вашем компьютере:
+1) [Интерпритатор Python 3.9](https://www.python.org/downloads/release/python-390/)
+2) [Visual Studio Code](https://code.visualstudio.com/download)
+3) [Git](https://code.visualstudio.com/download)
 
 - Клонировать репозиторий:
 
