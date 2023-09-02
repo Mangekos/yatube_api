@@ -37,7 +37,7 @@
 - Клонировать репозиторий:
 
 ```sh
-git clone https://github.com/sniki-ld/api_final_yatube.git
+git clone git@github.com:Mangekos/api_final_yatube.git
 ```
 
 - Перейти в него в командной строке:
